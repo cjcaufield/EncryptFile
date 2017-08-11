@@ -1,0 +1,203 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3BC46AE110BBBA4F004FBCAF /* EncryptFile */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* EncryptFile */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* EncryptFile */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 3BC46B6510BBBA6E004FBCAF /* Code sense */;
+		executables = (
+			3BC46AE110BBBA4F004FBCAF /* EncryptFile */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					614.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					727,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					468,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 281790274;
+			PBXWorkspaceStateSaveDate = 281790274;
+		};
+		perUserProjectItems = {
+			3BC46B8C10BBC301004FBCAF /* PBXTextBookmark */ = 3BC46B8C10BBC301004FBCAF /* PBXTextBookmark */;
+			3BC46B8D10BBC301004FBCAF /* PBXTextBookmark */ = 3BC46B8D10BBC301004FBCAF /* PBXTextBookmark */;
+			3BE34E6810CB7C5300D5340C /* PBXTextBookmark */ = 3BE34E6810CB7C5300D5340C /* PBXTextBookmark */;
+			3BE3500F10CBCAA400D5340C /* PBXTextBookmark */ = 3BE3500F10CBCAA400D5340C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3BC46B6410BBBA6E004FBCAF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* EncryptFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 854}}";
+			sepNavSelRange = "{1260, 0}";
+			sepNavVisRange = "{882, 747}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* EncryptFile_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 423}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 164}";
+		};
+	};
+	3BC46AE110BBBA4F004FBCAF /* EncryptFile */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			"../../../Cathode/ScreenFragment.glsl ../../../Cathode/ScreenFragment.data Interlace",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EncryptFile;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3BC46B6410BBBA6E004FBCAF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3BC46B6510BBBA6E004FBCAF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3BC46B6610BBBACB004FBCAF /* AQDataExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 462}}";
+			sepNavSelRange = "{1630, 25}";
+			sepNavVisRange = "{25, 1715}";
+		};
+	};
+	3BC46B8C10BBC301004FBCAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* EncryptFile_Prefix.pch */;
+		name = "EncryptFile_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 164;
+		vrLoc = 0;
+	};
+	3BC46B8D10BBC301004FBCAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3BC46B6610BBBACB004FBCAF /* AQDataExtensions.h */;
+		name = "AQDataExtensions.h: 30";
+		rLen = 25;
+		rLoc = 1630;
+		rType = 0;
+		vrLen = 1715;
+		vrLoc = 25;
+	};
+	3BE34E6810CB7C5300D5340C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EncryptFile.m */;
+		name = "EncryptFile.m: 45";
+		rLen = 0;
+		rLoc = 1305;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 82;
+	};
+	3BE3500F10CBCAA400D5340C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EncryptFile.m */;
+		name = "EncryptFile.m: 41";
+		rLen = 0;
+		rLoc = 1260;
+		rType = 0;
+		vrLen = 747;
+		vrLoc = 882;
+	};
+	8DD76F960486AA7600D96B5E /* EncryptFile */ = {
+		activeExec = 0;
+		executables = (
+			3BC46AE110BBBA4F004FBCAF /* EncryptFile */,
+		);
+	};
+}

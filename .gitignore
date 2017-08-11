@@ -1,0 +1,11 @@
+# OSX Filesystem
+.DS_Store
+.com.apple.timemachine.supported
+
+# SVN
+.svn*
+
+# Xcode
+xcuserdata
+build
+
